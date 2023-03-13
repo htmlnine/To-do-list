@@ -1,3 +1,3 @@
-#i dont really know yet but its def gonna be something
+# i dont really know yet but its def gonna be something
  - somethinggg
 
