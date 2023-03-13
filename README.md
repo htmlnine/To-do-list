@@ -1,2 +1,3 @@
-# To-do-list
-first test of a to do list website with html, JS and CSS
+# i dont really know yet but its def gonna be something
+ - somethinggg
+
